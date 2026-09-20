@@ -5,7 +5,7 @@ from tkinter import messagebox
 class MemePrankCalculator:
     def __init__(self, root):
         self.root = root
-        self.root.title("Brain Rot Calculator 9000")
+        self.root.title("Desktop Calculator Prototype")
         self.root.geometry("380x540")
         self.root.resizable(False, False)
         
